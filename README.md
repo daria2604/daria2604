@@ -20,6 +20,11 @@
 
 <br/>
 
+### Проекты:
+- [Марафон по JS](https://codepen.io/ria04)
+- [Учебный проект ЯП: Путешествия по России](https://daria2604.github.io/russian-travel/)
+- [Учебный проект ЯП: Mesto](https://daria2604.github.io/mesto/)
+
 ### ⚒️ Мой стек:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
