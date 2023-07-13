@@ -19,6 +19,7 @@
 
 ### 🪩 Проекты:
 - [Марафон по JS](https://codepen.io/ria04)
+- [Учебный проект ЯП: Научиться учиться](https://daria2604.github.io/how-to-learn/)
 - [Учебный проект ЯП: Путешествия по России](https://daria2604.github.io/russian-travel/)
 - [Учебный проект ЯП: Mesto](https://daria2604.github.io/mesto/)
 - [Учебный проект ЯП: Mesto(React)](https://daria2604.github.io/mesto-react/)
