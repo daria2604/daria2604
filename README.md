@@ -22,7 +22,8 @@
 - [Учебный проект ЯП: Научиться учиться](https://daria2604.github.io/how-to-learn/)
 - [Учебный проект ЯП: Путешествия по России](https://daria2604.github.io/russian-travel/)
 - [Учебный проект ЯП: Mesto](https://daria2604.github.io/mesto/)
-- [Учебный проект ЯП: Mesto(React)](https://daria2604.github.io/react-mesto-auth/)
+- [Учебный проект ЯП: Mesto (React)](https://daria2604.github.io/mesto-react/)
+- [Учебный проект ЯП: Mesto с регистрацией (React)](https://daria2604.github.io/react-mesto-auth/)
 
 ### ⚒️ Мой стек:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
