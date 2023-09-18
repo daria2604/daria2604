@@ -22,6 +22,7 @@
 - [Учебный проект ЯП: Путешествия по России](https://daria2604.github.io/russian-travel/)
 - [Учебный проект ЯП: Mesto (JS)](https://daria2604.github.io/mesto/)
 - [Учебный проект ЯП: Mesto (React)](https://daria2604.github.io/react-mesto-auth/)
+- [Верстка: Оно тебе надо](https://daria2604.github.io/you-need-it/)
 
 ### ⚒️ Мой стек:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
