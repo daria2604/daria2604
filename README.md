@@ -24,6 +24,7 @@
 - [Учебный проект ЯП: Mesto (React)](https://daria2604.github.io/react-mesto-auth/)
 - [Верстка: Оно тебе надо](https://daria2604.github.io/you-need-it/)
 - [Дипломный проект ЯП](https://movies.dvr.nomoredomainsicu.ru/)
+- [Сложно сосредоточиться](https://no-focus.netlify.app/)
 
 ### ⚒️ Мой стек:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
