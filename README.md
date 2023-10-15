@@ -2,16 +2,17 @@
 <br/>
 
 ✨ Хочу воплощать крутые идеи сайтов и веб-приложений в реальность \
-⚙️ Стремлюсь изучать новые технологии \
-🎯 Работать с настоящими проектами \
-✍ Стараюсь писать чистый код 
+⚙️ Люблю изучать новые технологии \
+🎯 Стремлюсь к работе с настоящими проектами \
+✍ Стараюсь писать чистый код \
+👩‍💻 Ищу работу фронтенд-разработчиком или HTML-верстальщиком \
 <br/>
 
 #### Мои интересы:
 🎸 играть на гитаре \
 🎨 рисовать на iPad \
 👾 смотреть прохождения игр на YouTube \
-🧟 тема апокалипсиса и зомби \
+🧟 апокалипсис и зомби \
 ❤️‍🔥 изучать иностранные языки (🇺🇸/🇬🇧🇩🇪🇮🇹🇪🇸🇰🇷🇯🇵🇨🇳)
 
 <br/>
@@ -52,6 +53,9 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria2604&count_private=true&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daria2604&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daria2604&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daria2604&layout=compact&theme=buefy&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daria2604&theme=buefy)
+
+
 
