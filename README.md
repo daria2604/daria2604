@@ -28,7 +28,7 @@
 **Учебные проекты ЯП**
   |Вёрстка|Адаптив|JavaScript|React|Диплом|
   |-------|-------|----------|-----|------|
-  |[Научиться учиться](https://daria2604.github.io/how-to-learn/)|[Путешествия по России](https://daria2604.github.io/russian-travel/)|[Mesto (JS)](https://daria2604.github.io/mesto/)|[Mesto (React)](https://daria2604.github.io/react-mesto-auth/)|[Приложение для поиска фильмов с Beat Films](https://movies.dvr.nomoredomainsicu.ru/)
+  |[Научиться учиться](https://daria2604.github.io/how-to-learn/)|[Путешествия по России](https://daria2604.github.io/russian-travel/)|[Mesto (JS)](https://daria2604.github.io/mesto/)|[Mesto (React)](https://daria2604.github.io/react-mesto-auth/)|[Приложение для поиска фильмов с BeatFilm](https://movies.dvr.nomoredomainsicu.ru/)
 
 ### ⚒️ Мой стек:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
