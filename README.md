@@ -20,6 +20,7 @@
 ### 🪩 Проекты:
 - [Марафон по JS](https://codepen.io/ria04)
 - [Адаптивная страница Welbex](https://daria2604.github.io/welbex_test_task/)
+- [Гифкус: гифки на любой вкус](https://gifkus.vercel.app/)
 - [Страница корзины "Товары и точка"](https://daria2604.github.io/tovary-i-tochka/)
 - [Верстка: Оно тебе надо](https://daria2604.github.io/you-need-it/)
 - [Сложно сосредоточиться](https://no-focus.netlify.app/)  
