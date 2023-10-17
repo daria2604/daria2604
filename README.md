@@ -19,13 +19,15 @@
 
 ### 🪩 Проекты:
 - [Марафон по JS](https://codepen.io/ria04)
-- [Учебный проект ЯП: Научиться учиться](https://daria2604.github.io/how-to-learn/)
-- [Учебный проект ЯП: Путешествия по России](https://daria2604.github.io/russian-travel/)
-- [Учебный проект ЯП: Mesto (JS)](https://daria2604.github.io/mesto/)
-- [Учебный проект ЯП: Mesto (React)](https://daria2604.github.io/react-mesto-auth/)
+- [Адаптивная страница Welbex](https://daria2604.github.io/welbex_test_task/)
+- [Страница корзины "Товары и точка"](https://daria2604.github.io/tovary-i-tochka/)
 - [Верстка: Оно тебе надо](https://daria2604.github.io/you-need-it/)
-- [Дипломный проект ЯП](https://movies.dvr.nomoredomainsicu.ru/)
-- [Сложно сосредоточиться](https://no-focus.netlify.app/)
+- [Сложно сосредоточиться](https://no-focus.netlify.app/)  
+
+**Учебные проекты ЯП**
+  |Вёрстка|Адаптив|JavaScript|React|Диплом|
+  |-------|-------|----------|-----|------|
+  |[Научиться учиться](https://daria2604.github.io/how-to-learn/)|[Путешествия по России](https://daria2604.github.io/russian-travel/)|[Mesto (JS)](https://daria2604.github.io/mesto/)|[Mesto (React)](https://daria2604.github.io/react-mesto-auth/)|[Приложение для поиска фильмов с Beat Films](https://movies.dvr.nomoredomainsicu.ru/)
 
 ### ⚒️ Мой стек:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
