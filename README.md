@@ -28,15 +28,17 @@
 **Учебные проекты ЯП**
   |Вёрстка|Адаптив|JavaScript|React|Диплом|
   |-------|-------|----------|-----|------|
-  |[Научиться учиться](https://daria2604.github.io/how-to-learn/)|[Путешествия по России](https://daria2604.github.io/russian-travel/)|[Mesto (JS)](https://daria2604.github.io/mesto/)|[Mesto (React)](https://daria2604.github.io/react-mesto-auth/)|[Приложение для поиска фильмов с BeatFilm](https://movies.dvr.nomoredomainsicu.ru/)
+  |[Научиться учиться](https://daria2604.github.io/how-to-learn/)|[Путешествия по России](https://daria2604.github.io/russian-travel/)|[Mesto (JS)](https://daria2604.github.io/mesto/)|[Mesto (React)](https://daria2604.github.io/react-mesto-auth/)|[Портфолио](https://dvr-movie-explorer.netlify.app)
 
 ### ⚒️ Мой стек:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <br>
